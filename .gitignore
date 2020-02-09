@@ -1,0 +1,10 @@
+Data/CSIA.Data/bin
+Data/CSIA.Data/obj
+Data/CSIA.Data.Test/bin
+Data/CSIA.Data.Test/obj
+Services/CSIA.Services/bin
+Services/CSIA.Services/obj
+Presentation/CSIA.Web/bin
+Presentation/CSIA.Web/bin
+Presentation/CSIA.Web/obj
+Presentation/CSIA.Web/ClientApp/node_modules
