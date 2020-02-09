@@ -10,7 +10,7 @@ using CSIA.Web.Models;
 namespace CSIA.Web.Controllers
 {
     [ApiController]
-    [Route("[controller]")]
+    [Route("api/[controller]")]
     public class CoursController : ControllerBase
     {
         private readonly ILogger<WeatherForecastController> _logger;

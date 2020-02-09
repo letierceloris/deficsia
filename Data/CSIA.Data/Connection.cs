@@ -8,7 +8,7 @@ namespace CSIA.Data
 
         public Connection(){
             if(_connection is null) {
-                _connection = new MySqlConnection("Server=localhost;Database=deficsia;Uid=root;");
+                _connection = new MySqlConnection("Server=localhost;Database=deficsia;Uid=root;Pwd=root");
             }
         }
     }
